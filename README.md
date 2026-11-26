@@ -43,7 +43,4 @@ python3 password_checker.py
 
 Type a password and press Enter. Type `quit` to exit.
 
-## 👨‍💻 Author
-Sheikh Iftekharul Islam
-BSc in Information Technology
-Aspiring SOC Analyst
+
