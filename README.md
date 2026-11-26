@@ -48,7 +48,4 @@ Type a password and press Enter. Type `quit` to exit.
 
 The crack time is a rough estimate. It assumes an attacker can try 10 billion guesses per second, which is a fast attacker, not a real-world measurement.
 
-## 👨‍💻 Author
-Sheikh Iftekharul Islam
-BSc in Information Technology
-Aspiring SOC Analyst
+
